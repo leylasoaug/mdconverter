@@ -1,12 +1,13 @@
 # Markdown to HTML converter
 
-This Python script is designed to convert Markdown (.md) files to HTML using the `markdown` library. If you don't have it, you can install it using the following command:
+This Python script is designed to convert Markdown (.md) files to HTML using the Markdown library.  
+If you don't have it, you can install it using the following command:
 
 ## Usage
 
 1. Install the Markdown library:
   ```bash
-  pip install markdown
+    pip install markdown
   ```
 
 2. Set up input and output paths:
