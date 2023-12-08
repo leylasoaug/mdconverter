@@ -15,4 +15,4 @@ If you don't have it, you can install it using the following command:
   Modify `html_output_file` to specify the path to save the resulting `.html` file.
 
 3. Run the script:
-  Execute the script and it will convert the specified .md file to HTML, saving the result into a .html file.
+  Execute the script and it will convert the specified  `.md` file to HTML, saving the result into a `.html` file.
